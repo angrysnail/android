@@ -1,0 +1,9 @@
+android {
+    defaultConfig {
+        applicationId "com.angrysnail.android.sample.cascade"
+    }
+}
+dependencies {
+    //compile 'com.android.support:support-v4:19.+'
+}
+

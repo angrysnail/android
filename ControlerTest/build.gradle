@@ -1,8 +1,9 @@
 android {
     defaultConfig {
-        applicationId "com.angrysnail.android.sample.animation"
+        applicationId "com.angrysnail.android.sample.controlertest"
     }
 }
+
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:23.1.0'
