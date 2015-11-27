@@ -14,7 +14,6 @@ subprojects {
         buildToolsVersion "23.0.1"
 
         defaultConfig {
-            applicationId "com.example.test"
             minSdkVersion 15
             targetSdkVersion 23
             versionCode 1
